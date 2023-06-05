@@ -1,7 +1,7 @@
 [package]
 name = "rustpix"
 version = "0.1.0"
-edition = "2023"
+edition = "2021"
 author = "Rubén Díaz Dugo"
 description = "Just a simple image processing tool"
 license = "MIT"
