@@ -1,0 +1,14 @@
+[package]
+name = "rustpix"
+version = "0.1.0"
+edition = "2021"
+author = "Rubén Díaz Dugo"
+description = "Just a simple image processing tool"
+license = "MIT"
+repository = "https://github.com/rubendd/RustPix.git"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.24.6"
+clap = "2.33"
